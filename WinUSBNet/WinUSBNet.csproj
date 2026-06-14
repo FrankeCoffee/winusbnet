@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
-    <TargetFrameworks>net35;net45;net48;net481;netcoreapp3.1;net10.0-windows</TargetFrameworks>
+    <TargetFrameworks>net48;net481;net10.0-windows</TargetFrameworks>
     <RootNamespace>MadWizard.WinUSBNet</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
@@ -10,11 +10,11 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>FrankeCsTools.WinUSBNet</PackageId>
     <RepositoryUrl>https://github.com/FrankeCoffee/winusbnet</RepositoryUrl>
-    <Version>2.1.1</Version>
+    <Version>2.1.2</Version>
     <Description>WinUSBNet is a .NET class library that provides easy access to the WinUSB API from C#, VB.NET and other .NET languages.</Description>
     <Copyright>Copyright © 2010 - 2020 by Thomas Bleeker (MadWizard.org)</Copyright>
-    <AssemblyVersion>2.1.0.0</AssemblyVersion>
-    <FileVersion>2.1.1.0</FileVersion>
+    <AssemblyVersion>2.1.2.0</AssemblyVersion>
+    <FileVersion>2.1.2.0</FileVersion>
     <Company>Madwizard.org</Company>
     <Authors>Thomas Bleeker</Authors>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
