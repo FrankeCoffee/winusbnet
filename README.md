@@ -4,6 +4,10 @@ WinUSBNet is a .NET class library that provides easy access to the WinUSB API fr
 
 Please note that there is at least one different project with the same name (at codeplex), this libary is not related.
 
+## Fork
+
+This is a fork of [WinUSBNet](https://github.com/madwizard-thomas/winusbnet)
+
 ## Download
 
 [Download latest release](https://github.com/madwizard-thomas/winusbnet/releases/latest)

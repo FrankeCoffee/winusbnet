@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.1 (2026-06-14) Version since Fork
+
+* Add .NET 4.8, 4.8.1 and .NET 10.0. All other older .NET versions removed.
+
 ## 2.1.0 (2020-08-22)
 
 * Change project style to SDK and add .NET Core 3.1 and .NET Framework 4.5 support. Thanks to @tibel!
