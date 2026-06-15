@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Other files/">
+    <File Path=".github/workflows/build.yml" />
+    <File Path="Changelog.md" />
+    <File Path="license.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="WinUSBNet/WinUSBNet.csproj" />
+</Solution>
