@@ -38,5 +38,3 @@
 ## 0.9.0 beta (2010-01-13)
 
 * First public beta release
-
-

@@ -1,5 +1,11 @@
 # WinUSBNet
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/FrankeCoffee/winusbnet/build.yml)
+[![NuGet version (FrankeCsTools.WinUSBNet)](https://img.shields.io/nuget/v/FrankeCsTools.WinUSBNet.svg)](https://www.nuget.org/packages/FrankeCsTools.WinUSBNet/)
+[![NuGet](https://img.shields.io/nuget/dt/FrankeCsTools.WinUSBNet.svg)](http://nuget.org/packages/FrankeCsTools.WinUSBNet)
+
+![Net48](https://badgen.net/badge/Framework/.Net&nbsp;4.8/blue) ![Net481](https://badgen.net/badge/Framework/.Net&nbsp;4.8.1/blue) ![NetCore10](https://badgen.net/badge/Framework/NetCore&nbsp;10/blue)
+
 WinUSBNet is a .NET class library that provides easy access to the WinUSB API from C#, VB.NET and other .NET languages. WinUSB is a user mode API available for Windows XP, Vista and 7 (XP will require an update), allowing low level access to USB devices such as control transfers and reading from and writing to endpoints.
 
 Please note that there is at least one different project with the same name (at codeplex), this libary is not related.
